@@ -124,7 +124,7 @@ Some of the inferenced detection images are displayed below
 
 <table>
     <tr>
-    <td><img src="inferenced\_images/detection/11493.jpg" alt="seadronessee1" width="200"></td>
+    <td><img src="inferenced_images/detection/11493.jpg" alt="seadronessee1" width="200"></td>
     <td><img src="inferenced\_images/detection/4.jpg" alt="seadronessee1" width="200"></td>
     <tr>
     <td><img src="inferenced\_images/detection/37124.jpg" alt="seadronessee1" width="200"></td>
